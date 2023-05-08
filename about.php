@@ -21,7 +21,7 @@
       </p>
       <a href="home.php"><p class="home-ZRJ">Home</p></a>
       <a href="about.php"><div class="auto-group-xnal-sB6">About</div></a>
-      <a href="coffe.php"><p class="coffee-u7n">Menus</p></a>
+      <a href="coffe.php"><p class="coffee-u7n">Menu</p></a>
       <a href="account.php"><img class="vector-W7a" src="./assets/vector-Vrx.png"/></a>
       <img class="vector-E3a" src="./assets/vector-wbn.png"/>
     </div>
@@ -31,7 +31,7 @@
         <img class="pexels-anna-tarazevich-4927142-1-hbN" src="./assets/pexels-anna-tarazevich-4927142-1-wyA.png"/>
       </div>
       <div class="auto-group-kwxl-bRr">
-        <p class="we-are-here-hUt">WE ARE HERE!! </p>
+        <p class="we-are-here-hUt">WE ARE HERE !! </p>
         <p class="kami-lock-coffee-hadir-dengan-nuansa-berbeda-yaitu-dengan-penjualan-berbasis-online-lewat-website-resmi-kami-karena-telah-banyaknya-cafe-yang-sudah-berjalanan-dengan-offline-cafe-mereka-kami-akan-menjalankan-usaha-ini-dengan-basis-online-juga-agar-dapat-memudahkan-konsumen-dalam-pembelian-order-di-lock-coffee-onp">Kami LOCK COFFEE hadir dengan nuansa berbeda, yaitu dengan penjualan berbasis online lewat website resmi kami karena telah banyaknya cafe yang sudah berjalanan dengan offline cafe mereka kami akan menjalankan usaha ini dengan basis online juga agar dapat memudahkan konsumen dalam pembelian/order di LOCK COFFEE</p>
         <div class="auto-group-4tcg-BoN">
           <img class="ph-instagram-logo-W4x" src="./assets/ph-instagram-logo.png"/>
