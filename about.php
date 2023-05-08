@@ -21,7 +21,7 @@
       </p>
       <a href="home.php"><p class="home-ZRJ">Home</p></a>
       <a href="about.php"><div class="auto-group-xnal-sB6">About</div></a>
-      <a href="coffe.php"><p class="coffee-u7n">Menus</p></a>
+      <a href="coffe.php"><p class="coffee-u7n">Menu</p></a>
       <a href="account.php"><img class="vector-W7a" src="./assets/vector-Vrx.png"/></a>
       <img class="vector-E3a" src="./assets/vector-wbn.png"/>
     </div>
