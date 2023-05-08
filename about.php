@@ -17,7 +17,7 @@
     <div class="auto-group-g8lg-m68">
       <p class="lock-caffee-45E">
         <span class="lock-caffee-45E-sub-0">LOCK</span>
-        <span class="lock-caffee-45E-sub-1"> CAFFEE</span>
+        <span class="lock-caffee-45E-sub-1"> COFFEEIN</span>
       </p>
       <a href="home.php"><p class="home-ZRJ">Home</p></a>
       <a href="about.php"><div class="auto-group-xnal-sB6">About</div></a>
